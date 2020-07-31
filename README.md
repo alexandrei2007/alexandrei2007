@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Alexandre Ito, I am a developer at [Dentro da História](https://www.dentrodahistoria.com.br)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-ito-02b20b77)](https://www.linkedin.com/in/alexandre-ito-02b20b77)
+
 <!--
 **alexandrei2007/alexandrei2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
